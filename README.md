@@ -24,11 +24,13 @@ Loop is a versatile music platform that offers a wide range of music genres, pod
 
 To get started with Loop, follow these steps:
 
-1. Create an account on the Loop platform to gain access to a variety of music genres, podcasts, and other exciting features.
+1. Create an account on the Loop platform either with an email address or phone number to gain access to a variety of music genres, podcasts, and other exciting features.
 
-2. [Include any additional instructions or information for users to get started and make the most out of Loop.]
+2. Verify your email address/number to ensure your account is properly secured.
 
-## Features
+3. Select your favorite artists and genres so as to recommend songs that suit your taste. [Planned]
+
+## Features (Planned)
 
 Loop offers the following key features:
 
@@ -42,11 +44,11 @@ Loop offers the following key features:
 
 ## Installation
 
-Loop can be accessed through the following platforms:
+Loop will be accessible through the following platforms:
 
-- Mobile Web: Visit [URL or provide instructions] on your mobile device's web browser to access Loop's mobile web version.
+- Mobile Web
 
-- Mobile Application: [Provide instructions on how to download and install the Loop mobile application from app stores.]
+- Mobile Application
 
 ## Usage
 
@@ -58,15 +60,9 @@ Loop is designed to be accessible across all devices, including mobile phones, t
 
 - Interact with the community by sharing your favorite music, creating playlists, or leaving comments.
 
-- [Add any other instructions or details on how users can make the most of Loop.]
-
 ## Contributing
 
-We welcome contributions to Loop! If you'd like to contribute, please follow these guidelines:
-
-- [Specify guidelines for contributing, such as code style, issue tracking, and pull requests.]
-
-- [Provide information on how to set up a development environment, if applicable.]
+We welcome contributions to _**Loop!**_ If you'd like to contribute, we expect a proper code of conduct while handling this project, more guidelines regarding contributions will be communicated as the project develops.
 
 ## License
 
